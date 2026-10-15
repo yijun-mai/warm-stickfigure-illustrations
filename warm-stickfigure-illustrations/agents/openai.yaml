@@ -1,0 +1,4 @@
+interface:
+  display_name: "温暖火柴人手绘配图"
+  short_description: "将中文文章和概念转成温暖有趣、表情鲜明的火柴人手绘插图"
+  default_prompt: "使用 $warm-stickfigure-illustrations 为这篇文章设计并生成温暖、有趣的火柴人手绘配图。"

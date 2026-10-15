@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "file": "examples/images/01-listening.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 1361114,
+    "sha256": "a9c3e85ce4b762c7edf18d205447f2613cabccdab95d93bb2ee3985589e2c47a",
+    "exact_text": [
+      "先听我说",
+      "我在听"
+    ],
+    "generation": "built-in image_gen",
+    "visual_review": "accepted",
+    "note": "第一张经一次局部修复，去掉衣服发型和复杂环境；其余以它作角色风格参考。"
+  },
+  {
+    "id": 2,
+    "file": "examples/images/02-first-step.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 1331160,
+    "sha256": "b8d83867b34bb7d3e6cb2f7a8d64091bd72a550d7ab3d92b373840608b753f9c",
+    "exact_text": [
+      "先走一步"
+    ],
+    "generation": "built-in image_gen",
+    "visual_review": "accepted",
+    "note": "实际生成后查看，角色动作及短中文已检查。"
+  },
+  {
+    "id": 3,
+    "file": "examples/images/03-focus.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 1415694,
+    "sha256": "767e30c0b35d9753f4dc37b888124a8ec76ad0e2b942cc6bbfe0660671cebc85",
+    "exact_text": [
+      "太多了",
+      "先选重点"
+    ],
+    "generation": "built-in image_gen",
+    "visual_review": "accepted",
+    "note": "实际生成后查看，角色动作及短中文已检查。"
+  },
+  {
+    "id": 4,
+    "file": "examples/images/04-handoff.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 1349412,
+    "sha256": "fa73466935c296f55f03088a4a7fff75a516501b625bf6ff5ea7898b9626151e",
+    "exact_text": [
+      "接住再交棒",
+      "收到"
+    ],
+    "generation": "built-in image_gen",
+    "visual_review": "accepted",
+    "note": "实际生成后查看，角色动作及短中文已检查。"
+  },
+  {
+    "id": 5,
+    "file": "examples/images/05-shared-rules.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 1380854,
+    "sha256": "d6f6b8d6327d774305acdce771df5b3e775869c05fc7e5c3263618b8ebad2f76",
+    "exact_text": [
+      "规则也包括我"
+    ],
+    "generation": "built-in image_gen",
+    "visual_review": "accepted",
+    "note": "实际生成后查看，角色动作及短中文已检查。"
+  },
+  {
+    "id": 6,
+    "file": "examples/images/06-idea-to-action.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 1489390,
+    "sha256": "81c3d701fafc027b5915956841a05ca2018111ea9be60ff44c8594956732c097",
+    "exact_text": [
+      "想法",
+      "动手"
+    ],
+    "generation": "built-in image_gen",
+    "visual_review": "accepted",
+    "note": "实际生成后查看，角色动作及短中文已检查。"
+  },
+  {
+    "id": 7,
+    "file": "examples/images/07-feedback.png",
+    "width": 1672,
+    "height": 940,
+    "bytes": 1408433,
+    "sha256": "7e34b457a8d68a85a30490dec25b8fc8ae0f8ac0fe509c40d24a654bf11da4f4",
+    "exact_text": [
+      "这里再试试",
+      "好，一起改"
+    ],
+    "generation": "built-in image_gen",
+    "visual_review": "accepted",
+    "note": "实际生成后查看，角色动作及短中文已检查。"
+  },
+  {
+    "id": 8,
+    "file": "examples/images/08-learning.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 1521847,
+    "sha256": "fca19083f77712646503635d7aa9cdb01dc9a9e0f6a0ed81b6417afa5a397d48",
+    "exact_text": [
+      "想一想",
+      "试一试",
+      "再调整"
+    ],
+    "generation": "built-in image_gen",
+    "visual_review": "accepted",
+    "note": "实际生成后查看，角色动作及短中文已检查。"
+  }
+]
